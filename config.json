@@ -3,10 +3,7 @@
     "specificItems": {
         "enabled": true,
         "sendingItems": [
-            "9255011",
-            "241542424",
-            "16477149823",
-            "19027209"
+            "233520257"
 
         ],
         "receivingItems": [
@@ -14,7 +11,7 @@
         "tags": [
             "upgrade",
             "downgrade",
-            "projecteds",
+            "demand",
             "any"
         ],
         "_tagOptions": ["adds", "upgrade", "downgrade", "any", "wishlist", "demand", "rares", "rap", "robux", "projecteds"]
